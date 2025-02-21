@@ -1,6 +1,7 @@
+
 body{
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 253, 252);
     font-family: Arial, Helvetica, sans-serif;
 }
 header li{
@@ -26,7 +27,20 @@ h1 a{
     color: black;
 }
 .imagem{
-    margin: 2em 80em auto auto;
+    margin: -23em 100em 4em auto;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(13, 115, 129);
+    text-align: center;
+    padding: 5em;
+    margin: 5em 5em 5em 40em;
+    color: white;
+    font-size: small;
+    border-radius: 2em;
+}
+.texto1{
 }
 nav a:hover{
     color:rgb(255, 255, 255);
@@ -35,4 +49,7 @@ footer{
     color: black;
     background-color: rgb(255, 223, 230);
     padding: 3em;
+}
+p{
+    margin: 3em auto auto auto;
 }
