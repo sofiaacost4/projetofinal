@@ -25,3 +25,14 @@ h1 a{
     text-decoration: none;
     color: black;
 }
+.imagem{
+    margin: 2em 80em auto auto;
+}
+nav a:hover{
+    color:rgb(255, 255, 255);
+}
+footer{
+    color: black;
+    background-color: rgb(255, 223, 230);
+    padding: 3em;
+}
